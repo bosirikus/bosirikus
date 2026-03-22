@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Boris 👋
 
-<!--
-**bosirikus/bosirikus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics student @ [IMC Krems University of Applied Sciences](https://www.fh-krems.ac.at/en/) (Austria)  
+Previously interned in Python/software development @ Sciant and networking/infrastructure @ Telelink Business Services
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages:** Python, JavaScript, HTML/CSS, SQL  
+**Tools & Concepts:** OOP, Git, Docker, REST APIs, Linux, Networking basics  
+**Databases:** MySQL / relational DB fundamentals  
+
+---
+
+## 🚀 What I'm working on
+
+- Building a music streaming platform in Python (OOP, pytest, CI/CD)
+- Sharpening algorithms & data structures
+- Looking for a **Summer 2026 internship** — open to Sofia on-site or fully remote roles
+
+---
+
+*Based in Austria 🇦🇹 | Originally from Bulgaria 🇧🇬*
